@@ -41,4 +41,4 @@ Upload the LinkedIn banner image to your repo:
 - Then, in your README, add this line at the top:
 
 ```markdown
-![SOC Alert Triage Completed](banner-image-name.png)
+![SOC Alert Triage Completed](banner-SOC L1 alert triage.png)
