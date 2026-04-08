@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="SOC L1 alert triage.png" alt="SOC Alert Triage Completed" width="100%">
+</p>
+
 # SOC L1 – Alert Triage (TryHackMe)
 Hands-on SOC L1 project demonstrating alert triage &amp; incident analysis using TryHackMe
 
@@ -41,4 +45,4 @@ Upload the LinkedIn banner image to your repo:
 - Then, in your README, add this line at the top:
 
 ```markdown
-![SOC Alert Triage Completed](banner-SOC L1 alert triage.png)
+![SOC Alert Triage Completed](SOC L1 alert triage.png)
